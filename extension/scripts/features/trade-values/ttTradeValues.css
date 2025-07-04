@@ -6,6 +6,15 @@
 	border-top: 1px solid lightgrey;
 }
 
+.tt-item-value-unit {
+	color: var(--tt-color-item-text);
+}
+
+.tt-item-value-quantity,
+.tt-item-value-total {
+	color: var(--tt-color-item-text);
+}
+
 .tt-total-value span {
 	color: var(--tt-color-item-text);
 }
